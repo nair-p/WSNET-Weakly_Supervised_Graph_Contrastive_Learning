@@ -17,6 +17,5 @@ python main_synthetic.py --data_path data/Citeseer/all_data.pkl --results_path r
 
 Choose a dataset from ['Citeseer', 'Coauthor', 'Amazon', 'Disease', 'Wisconsin'].
 
-The LFs used for obtaining the weak labels are provided in the readme file inside each of the corresponding data folders. 
-
+The LFs used for obtaining the weak labels are provided in the readme file inside each of the corresponding data fo
 For example, more information on the weak labels for LIAR-WS dataset can be found in `data/liar_new/LF_README.md`.
